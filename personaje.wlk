@@ -85,3 +85,7 @@ class Ejercito {
     method ordenadosLosMasPoderosos() = Personajes.sortBy({p1,p2=> p1.potencialOfensivo() > p2.potencialOfensivo()})
     
 }
+
+
+// Apuntes del profe
+// https://github.com/obj1-unahur-2025s1/PresentacionPersonal-hernanianigro
